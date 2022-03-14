@@ -1,1 +1,18 @@
 this is a master brance confilt!
+This is a bugFix brance conflits test!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first git programmer!
+This is a first modify!
+This is a first bugFix!
